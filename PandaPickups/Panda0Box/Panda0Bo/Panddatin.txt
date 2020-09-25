@@ -1,0 +1,27 @@
+from direct.actor.Actor import Actor
+import time
+import threading
+import sys
+import keyboard
+from panda3d.core import *
+from direct.showbase.DirectObject import DirectObject
+
+
+bse=0
+class vinen(DirectObject):
+	def __init__(self):
+		self.sano=Actor("Sbig.egg",{"Anaib":"Sbig-Armsjin"})
+		self.tke=KeyboardButton.ascii_key('w')
+		self.accept("w-repeat",self.run)
+		self.sano.reparentTo(render)
+		self.sano.loop("Anaib")
+	
+	def run(self):
+		global bse
+		self.sano.setPos(-bse,0,0)
+		bse+=1*mopspeed
+		time.sleep(0.1)
+		
+
+
+runi=vinen()

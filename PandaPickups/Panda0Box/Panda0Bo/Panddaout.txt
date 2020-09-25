@@ -1,0 +1,4832 @@
+
+import Ango1
+
+from direct.actor.Actor import Actor
+
+class ango():
+	def __init__(self):
+		self.sano=Actor("EggMod/MailHandle",{})
+		self.sano.reparentTo(render)
+		#self.sano.loop("Anaib")
+        print(self.sano.getAnimNames())
+
+runi=ango()
+
+import Ango1
+
+import Ango1
+
+import Ango1
+
+import Ango1
+
+import Ango1
+import Lt1
+Lt1.run()
+
+import Ango1
+loader.loadModel("EggMod/MailBox").reparentTo(render)
+
+
+print(Panda0Box)
+
+print(dir())
+
+		sano=Actor("panda-model",{"Anaib":"panda-walk","Fcino":"panda-walk4"})
+		sano.reparentTo(render)
+		sano.loop("Anaib")
+
+sano=Actor("panda-model",{"Anaib":"panda-walk","Fcino":"panda-walk4"})
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+from direct.actor.Actor import Actor
+sano=Actor("panda-model",{"Anaib":"panda-walk","Fcino":"panda-walk4"})
+sano.reparentTo(render)
+sano.loop("Anaib")
+
+import Ango1
+
+import Ango1
+
+sano=loader.loadModel("EggMod/Sbig").reparentTo(render)
+
+import Lt1
+Lt1.run()
+
+sano.lookAt((7,2,52),2,1,34)
+
+sano.lookAt(LVector3(7,2,52),2,1,34)
+
+sano.lookAt(sano.getPos(),,2,1,34)
+
+sano.lookAt(sano.getPos(),2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,2,1,34)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+sano.lookAt(sano,0,0,1)
+
+import MetMove
+Panda0Box.pamo=MetMove.moving()
+
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+
+from panda3d.core import Quat, headsUp
+
+quat = Quat()
+headsUp(quat, LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+quat = Quat()
+headsUp(quat, LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+quat = Quat()
+headsUp(quat, LVector3(210,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+quat = Quat()
+headsUp(quat, LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+loader.loadModel("EggMod/HailPar").reparentTo(render)
+quat = Quat()
+headsUp(quat, LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,sano.getQuat().getForward(),LVector3(0,14,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,1,0),LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,1,0),LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,1,0),LVector3(0,14,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,1,0),LVector3(0,0,-13))
+
+print(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,1,0),LVector3(0,0,-13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,1,0),LVector3(0,0,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,1,0),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,1,0),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+import Lt1
+Lt1.run()
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,0,1),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,0,1),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,0,1),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(1,0,1),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,0,0),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,0,0),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,0,1),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,1,0),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,-1,0),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,0,0),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,0,1),LVector3(0,80,13))
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+from panda3d.core import Quat, headsUp
+
+
+quat = Quat()
+headsUp(quat,Point3(0,0,1),sano.getPos())
+
+print(quat.getHpr())
+sano.setHpr(quat.getHpr())
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cido",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cido")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cido",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.9)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.9)
+Ango1.runi.sano.setControlEffect("Cidoe",0.1)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.9)
+Ango1.runi.sano.setControlEffect("Cidoe",0.9)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.9)
+Ango1.runi.sano.setControlEffect("Cidoe",0.1)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.8)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.8)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.8)
+Ango1.runi.sano.setControlEffect("Cidoe",0.2)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.2)
+Ango1.runi.sano.setControlEffect("Cidoe",0.8)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+
+print(Ango1.runi.sano.getAnimNames())
+
+print(Ango1.runi.sano.getAnimNames())
+
+print(Ango1.runi.sano.getAnimNames())
+
+import Ango1
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.1)
+Ango1.runi.sano.setControlEffect("Cidoe",0.1)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.9)
+Ango1.runi.sano.setControlEffect("Cidoe",0.1)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.9)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.9)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib"1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.7)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.7)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.7)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.7)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.7)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.7)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.7)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",.3)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",.5)
+#Ango1.runi.sano.setControlEffect("Cidoe",.5)Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+Ango1.runi.sano.stop()
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+#Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0.5)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",0.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",2)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",27)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",27)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",27)
+Ango1.runi.sano.setControlEffect("Cidoe",40)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",27)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",2)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.2)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.2)
+Ango1.runi.sano.setControlEffect("Cidoe",1.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.2)
+Ango1.runi.sano.setControlEffect("Cidoe",1.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",2.2)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+#Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Anaib")
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+#Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",1)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+#Ango1.runi.sano.setControlEffect("Anaib",0)
+
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",0)
+
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",0)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+
+#Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",1)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.2)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",.2)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.2)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",.2)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.1)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",.1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib"7,.1)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe"6,.1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",7.1)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",6.1)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Cidoe")
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.enableBlend()
+Ango1.runi.sano.setControlEffect("Anaib",.5)
+
+Ango1.runi.sano.play("Anaib")
+Ango1.runi.sano.setControlEffect("Cidoe",.5)
+Ango1.runi.sano.play("Cidoe")
+
+import Ango1
+
+Ango1.runi.sano.exposeJoint(None,"lamp","Bone.005")
+
+print(Ango1.runi.sano.exposeJoint(None,"lamp","Bone.005"))
+
+(Ango1.runi.sano.exposeJoint(None,"model_root","Bone.005"))
+
+(Ango1.runi.sano.exposeJoint(None,"model_root","Bone.005"))
+
+(Ango1.runi.sano.exposeJoint(None,"model_root","Bone.005"))
+
+(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+print(Ango1.runi.sano.getJoints())
+(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+import Ango1
+
+import Ango1
+print(Ango1.runi.sano.getJoints())
+(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+import Ango1
+
+print(Ango1.runi.sano.getJoints())
+(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+print(Ango1.runi.sano.getJoints())
+(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+
+print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+
+import Ango1
+
+print(Ango1.runi.sano.getJoints())
+(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+print(Ango1.runi.sano.getJoints())
+(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1",partName="Bone.005")
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1",["Bone.005"])
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1",["Bone.005"])
+Ango1.runi.play("Lampe5",partName="Dis1")
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1",["Bone.005"])
+Ango1.runi.play("Lampe6",partName="Dis1")
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1",["Bone.005"])
+Ango1.runi.sano.play("Lampe5",partName="Dis1")
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1",["Bone.005"])
+Ango1.runi.sano.play("Lampe6",partName="Dis1")
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1",["Bone.009"])
+Ango1.runi.sano.play("Lampe5",partName="Dis1")
+
+#print(Ango1.runi.sano.getJoints())
+print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1",["Bone.005"])
+Ango1.runi.sano.play("Lampe5",partName="Dis1")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1","Bone.005")
+Ango1.runi.sano.play("Lampe5",partName="Dis1")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dis1","Bone.005")
+Ango1.runi.sano.play("Lampe5",partName="Dis1")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dub","Bone.005")
+Ango1.runi.sano.play("Lampe5",partName="Dub")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dub","Bone.005")
+Ango1.runi.sano.play("Lampe5",partName="Dub")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dub","Bone.005")
+Ango1.runi.sano.play("Lampe5",partName="Dub")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dtub","Bone.005")
+Ango1.runi.sano.play("Lampe5",partName="Dtub")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dtub","Bone.005")
+Ango1.runi.sano.play("Lampe5",partName="Dtub")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.stop()
+Ango1.runi.sano.makeSubpart("Dtub","Bone.009")
+Ango1.runi.sano.play("Lampe5",partName="Dtub")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.makeSubpart("Dtbu","Bone.009")
+Ango1.runi.sano.play("Lampe5",partName="Dtbu")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.makeSubpart("Dtbu","Bone.009")
+Ango1.runi.sano.play("Lampe5",partName="Dtbu")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.makeSubpart("Dtbu","Bone.009")
+Ango1.runi.sano.play("Anaib",partName="Dtbu")
+
+#print(Ango1.runi.sano.getJoints())
+#print(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+Ango1.runi.sano.makeSubpart("Dtbu","Bone.009")
+Ango1.runi.sano.play("Cidoe",partName="Dtbu")
+
+import Ango1
+print(Ango1.runi.sano.getJoints())
+(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.005"))
+
+import Ango1
+print(Ango1.runi.sano.getJoints())
+(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+
+import Ango1
+print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib",partName="Diet")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib",partName="Diet")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib",partName="Diet")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib",partName="Diet")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib",partName="Diet")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diyp")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diyp")
+
+
+#import Ango1
+#print(Ango1.runi.sano.getJoints())
+#(Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009"))
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diyp")
+
+
+import Ango1
+
+print(Ango1.runi.sano.getJoints())
+
+print(Ango1.runi.sano.getJoints())
+Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009")
+
+print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.exposeJoint(None,"modelRoot","Bone.009")
+
+print(Ango1.runi.sano.getJoints())
+Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+
+print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.play("Cidoe",partName="Diyp")
+
+
+print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diyp")
+
+
+print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+Ango1.runi.sano.getAnimNames()
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+Ango1.runi.sano.getAnimNames()
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Cidoe",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+Ango1.runi.sano.play("Anaib",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+#Ango1.runi.sano.play("Anaib",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+Ango1.runi.sano.play("Anaib")
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+#Ango1.runi.sano.play("Anaib",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+Ango1.runi.sano.play("Anaib")
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+#Ango1.runi.sano.play("Anaib",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+Ango1.runi.sano.play("Anaib")
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+#Ango1.runi.sano.play("Anaib",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+Ango1.runi.sano.play("Cidoe")
+
+
+#print(Ango1.runi.sano.getJoints())
+#Ango1.runi.sano.makeSubpart("Diet",["Bone.009"])
+#Ango1.runi.sano.stop()
+#Ango1.runi.sano.play("Anaib",partName="Diet")
+print(Ango1.runi.sano.getAnimNames())
+Ango1.runi.sano.play("Cidoe")
+
+
+import Ango1
+
+Ango1.runi.sano
+
+import Ango1
+
+import Ango1
+
+print(Ango1.runi.sano)
+
+print(Ango1.runi.sano.listJoints())
+
+print(Actor.listJoints(Ango1.runi.sano))
+
+from direct.actor.Actor import Actor
+print(Actor.listJoints(Ango1.runi.sano))
+
+import Ango1
+
+import Ango1
+
+Ango1.runi.sano.loop("Anaib")
+Ango1.runi.sano.loop("Cidoe")
+
+waun=sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+waun=sano.node().makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+waun=sano.node().makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+print(waun)
+
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+print(waun)
+
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+print(waun)
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+print(waun)
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+print(waun)
+
+Ango1.runi.sano.loop("Anaib")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+
+Ango1.runi.sano.loop("Anaib")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="vifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="vifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="vifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="vifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="vifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="vifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="vifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="vifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="vifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009","Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009"],["Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009"],["Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009"],["Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009"],["Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.009"],["Bone.010","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", [""],["Bone.09","Bone.011","Bone.012"])
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+waun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+waun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="sfi")
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#waun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="sfi")
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#waun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="sfi")
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#waun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="sfi")
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#waun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#waun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#waun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#waun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+print(waun)
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+print(jaun)
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"])
+
+
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011,"Bone.012"])
+jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"."Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010"."Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop()
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Cidoe")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+#jaun=Ango1.runi.sano.makeSubpart("sfi", ["Bone.09"],["Bone.010","Bone.011","Bone.012"])
+
+Ango1.runi.sano.stop("Anaib")
+#print(waun)
+#Ango1.runi.sano.disableBlend()
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+
+#Ango1.runi.sano.loop("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+#Ango1.runi.sano.loop("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Anaib",partName="sfi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Anaib",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Anaib",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Anaib",partName="ifi")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Anaib")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Anaib")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Anaib")
+
+import Ango1
+#waun=Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.09","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+Ango1.runi.sano.play("Anaib")
+print(Ango1.runi.sano.getJoints())
+
+import Ango1
+
+Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.009","Bone.011","Bone.012"])
+
+import Ango1
+
+Ango1.runi.sano.makeSubpart("ifi", ["Bone.010"],["Bone.009","Bone.011","Bone.012"])
+
+Ango1.runi.sano.play("Anaib",partName="ifi")
+
+import Ango1
+
+Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+#Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+#Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+#Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.pose("Cidoe",frame=1)
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.pose("Cidoe",frame=40)
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.pose("Cidoe",frame=0)
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+Ango1.runi.sano.pose("Cidoe",frame=1)
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+#Ango1.runi.sano.pose("Cidoe",frame=1)
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+#Ango1.runi.sano.pose("Cidoe",frame=1)
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+#Ango1.runi.sano.pose("Cidoe",frame=1)
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+#Ango1.runi.sano.pose("Cidoe",frame=1)
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango1
+
+#Ango1.runi.sano.makeSubpart("sfi", ["Bone.009"],["Bone.010"])
+
+Ango1.runi.sano.play("Anaib",partName="sfi")
+#Ango1.runi.sano.pose("Cidoe",frame=1)
+#Ango1.runi.sano.play("Cidoe",partName="ifi")
+
+import Ango2
+
+import Ango2
+
+import Ango2
+
+import Ango2
+
+import Ango2
+
+import Ango2
+
+import Ango2
+
+import Ango2
+
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB2",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB2",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB2",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB2",partName="Lamet6")
+
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+Ango2.runi.sano.play("BB2",partName="Lamet5")
+
+Ango2.runi.sano.play("BB2",partName="Lamet5")
+
+Ango2.runi.sano.play("BB2",partName="Lamet5")
+
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=26)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=6)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=60)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=60)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=0)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=0)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=10)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=50)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=60)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=59)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=58)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=59)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=58)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=58)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=58)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=5)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=5)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=2)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=51)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=51)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=51)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=51)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=6)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=6)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=6)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=6)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=6)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=19)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=38)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=38)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=38)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=38)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=38)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet5",frame=38)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet5",frame=38)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=38)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=38)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=38)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=8)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=28)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=28)
+import Lt1
+Lt1.run()
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=28)
+import Lt1
+Lt1.run()
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=28)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=2)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet6",frame=2)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=2)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=72)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=42)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=2)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=42)
+
+Ango2.runi.sano.pose("BB1",partName="Lamet6",frame=42)
+
+Ango2.runi.sano.pose("BB2",partName="Lamet5",frame=2)
+
+import Ango2
+
+dihem=Ango2.runi.sano.getAnimControl("Lampe6")
+
+dihem=Ango2.runi.sano.getAnimControl("Lampe6")
+
+dihem=Ango2.runi.sano.getAnimControl("Lampe6")
+
+print(dihem)
+
+import Ango1
+
+import Ango1
+
+import Ango1
+
+import Ango1
+
+import Ango1
+import Lt1.run()
+
+import Ango1
+import Lt1
+Lt1.run()
+
+import Ango2
+import Lt1
+Lt1.run()
+
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+Ango2.runi.sano.play("BB1",partName="Lamet6")
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+Ango2.runi.sano.play("BB1",partName="Lamet6")
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+Ango2.runi.sano.play("BB1",partName="Lamet6")
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+Ango2.runi.sano.play("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.play("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.play("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.play("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=39,partName="Lamet5")
+
+Ango2.runi.sano.play("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=39,partName="Lamet5")
+
+Ango2.runi.sano.play("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=19,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=19,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=9,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=98,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=98,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=984,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=984,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=984,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=982,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=982,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=58,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=2,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=2,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.pose("BB1",frame=47,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",frame=47,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=47,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=46,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=46,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=46,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=29,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=False)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=29,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=29,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=29,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=29,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=219,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.loop("BB1",fromFrame=4,toFrame=8219,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",fromFrame=4,toFrame=8219,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",19,partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=3,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=26,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=2,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=0,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.pose("BB2",frame=0,partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.removePart(partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.removePart(partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.removePart(partName="Lamet5")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.getAnimControl()
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.getAnimControl("BB1")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.getAnimControl("BB1")
+
+Ango2.runi.sano.setBlend(frameBlend=True)
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+print(Ango2.runi.sano.getAnimControl("BB1"))
+
+import Ango2
+
+print(Ango2.runi)
+
+import Ango2
+print(Ango2.runi)
+
+import Ango2
+
+Ango2.runi.sano.isPlaying()
+
+Ango2.runi.sano.getAnimControl("BB2").stop()
+
+Ango2.runi.sano.getAnimControl("BB2").stop(partName="Lamet5")
+
+print(Ango2.runi.sano.getAnimControl("BB2"))
+
+print(Ango2.runi.sano.getAnimControl("BB1"))
+
+mt=(Ango2.runi.sano.getAnimControl("BB1"))
+
+mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.stop()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.stop()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.stop()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.stop()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+print(mt)
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+print(mt)
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+print(mt)
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+print(mt)
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+print(mt)
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB1")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB1")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB1")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB1")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB2")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB2")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB2")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB2")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB1",partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB2",partName="Lamet6")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB2",partName="Lamet6")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB2",partName="Lamet6")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB1",partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play(partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play(partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play(partName="Lamet6")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play("BB1",partName="Lamet6")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play("BB1")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play(partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play(partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mt.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+mt.play()
+mye.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+mt.play()
+mye.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+mt.play()
+mye.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+mt.play()
+#mye.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+#mt.play()
+mye.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+mt.play()
+#mye.play()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+runi.sano.loop("BB1",partName="Lamet6")
+runi.sano.loop("BB2",partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+Ango2.runi.sano.loop("BB2",partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.isPlaying())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame()
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getFrame())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(Ango2.runi.sano.getCurrentAnim())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(Ango2.runi.sano.getCurrentAnim())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(Ango2.runi.sano.getCurrentAnim())
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(Ango2.runi.sano.getCurrentAnim())
+runi.sano.stop("BB1",partName="Lamet6")
+runi.sano.stop("BB2",partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(Ango2.runi.sano.getCurrentAnim())
+Ango2.runi.sano.stop("BB1",partName="Lamet6")
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+#mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(Ango2.runi.sano.getCurrentAnim())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(Ango2.runi.sano.getCurrentAnim())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+Ango2.runi.sano.stop("BB2",partName="Lamet5")
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+mt.stop()
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+mt.stop()
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+mt.stop()
+
+mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+mt.stop()
+
+mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+mt.stop()
+
+mt=(Ango2.runi.sano.getAnimControl("BB1"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+mt.stop()
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+mt.stop()
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.isPlaying())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mt.getNumFrames())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+mt=(Ango2.runi.sano.getAnimControl("BB1","Lamet6"))
+mye=(Ango2.runi.sano.getAnimControl("BB2"))
+print(mye.getNumFrames())
+Ango2.runi.sano.loop("BB1",partName="Lamet6")
+
+
+import MetMove
+
+import Ango2
+
+print(Ango2.runi.sano.getAnimNames())
+
+print(Ango2.runi.sano.stop())
+
+print(Ango2.runi.sano.stop())
+
+print(Ango2.runi.sano.stop("BB1"))
+
+print(Ango2.runi.sano.stop("BB1",partName="Lamet6"))
+
+print(Ango2.runi.sano.stop("BB1",partName="Lamet6"))
+
+print(Ango2.runi.sano.stop("BB1",partName="Lamet5"))
+
+print(Ango2.runi.sano.stop("BB1",partName="Lamet5"))
+
+print(Ango2.runi.sano.stop("BB1",partName="Lamet5"))
+
+print(Ango2.runi.sano.stop("BB1",partName="Lamet5"))
+
+print(Ango2.runi.sano.stop("BB1",partName="Lamet5"))
+
+print(Ango2.runi.sano.stop("BB2",partName="Lamet5"))
+
+print(Ango2.runi.sano.loop("BB2",partName="Lamet5"))
+
+print(Ango2.runi.sano.loop("BB2",partName="Lamet6"))
+
+print(Ango2.runi.sano.loop("BB2",partName="Lamet6"))
+
+print(Ango2.runi.sano.loop("BB2",partName="Lamet6"))
+
+print(Ango2.runi.sano.loop("BB2",partName="Lamet5"))
+
+print(Ango2.runi.sano.loop("BB1",partName="Lamet6"))
+
+print(Ango2.runi.sano.getAnimController("BB1",partName="Lamet6"))
+
+print(Ango2.runi.sano.getAnimControl("BB1",partName="Lamet6"))
+
+print(Ango2.runi.sano.getAnimControl("BB1",partName="Lamet6"))
+
+print(Ango2.runi.sano.getAnimControl("BB1",partName="Lamet6"))
+
+print(Ango2.runi.sano.getAnimControl("BB1",partName="Lamet6"))
+
+fdi=(Ango2.runi.sano.getAnimControl("BB1",partName="Lamet6"))
+
+fdi=(Ango2.runi.sano.getAnimControl("BB1",partName="Lamet6"))
+
+print(fdi.getNumFrames())
+
+fdi=(Ango2.runi.sano.getAnimControl("BB2",partName="Lamet6"))
+
+print(fdi.getNumFrames())
+
+fdi=(Ango2.runi.sano.getAnimControl("BB2",partName="Lamet5"))
+
+print(fdi.getNumFrames())
+
+fdi=(Ango2.runi.sano.getAnimControl("BB2",partName="Lamet5"))
+
+print(fdi.getNumFrames())
+base.useTrackball()
+
+import Ango2
+
+import Ango2
+
+import MetMove
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import Ango2
+
+sano2=Ango2.runi.sano.exposeJoint(None,"modelRoot","Bone.010")
+
+
+sano1=loader.loadModel("EggMod/BlastPow.egg")
+sano1.reparentTo(sano2)
+sano1.setPos(.5,1.5,-0.25)
+sano1.setHpr(0,180,90)
+import Lt1
+Lt1.run()
+
+import Ango2
+
+sano2=Ango2.runi.sano.exposeJoint(None,"modelRoot","Bone.010")
+
+
+sano1=loader.loadModel("EggMod/BlastPow.egg")
+sano1.reparentTo(sano2)
+sano1.setPos(.5,1.5,-0.25)
+sano1.setHpr(0,180,90)
+import Lt1
+Lt1.run()
+
+sano2=Ango2.runi.sano.exposeJoint(None,"modelRoot","Bone.010")
+
+
+sano1=loader.loadModel("EggMod/BlastPow.egg")
+sano1.reparentTo(sano2)
+sano1.setPos(.5,1.5,-0.25)
+sano1.setHpr(0,180,90)
+sano1.setScale(.4)
+import Lt1
+Lt1.run()
+
+import Ango2
+
+sano2=Ango2.runi.sano.exposeJoint(None,"modelRoot","Bone.010")
+
+
+sano1=loader.loadModel("EggMod/BlastPow.egg")
+sano1.reparentTo(sano2)
+sano1.setPos(.5,1.5,-0.25)
+sano1.setHpr(0,180,90)
+sano1.setScale(.4)
+import Lt1
+Lt1.run()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import MetMove
+Panda0Box.pamo=MetMove.Moving()
+
+import magipanda
+Panda0Box.pamo=magipanda.Magip()
+
+box1te=loader.loadModel("Tine.egg").reparentTo(render)
+
+box1te.setTexture(loader.loadTexture("Bot.png"))
+
+box1te=sepand1
+box1te.setTexture(loader.loadTexture("Bot.png"))
+
+
+sepand1.setTexture(loader.loadTexture("Bot.png"))
+
+
+sepand1.setTexture(loader.loadTexture("Bot.png"))
+
+box1te=render.find("Tine.egg")
+box1te.setTexture(loader.loadTexture("Bot.png"))
+
+box1te=loader.loadModel("box.egg")
+box1te.reparentTo(render)
+box1te.setTexture(loader.loadTexture("Bot.png"))
+
+#box1te=loader.loadModel("box.egg")
+#box1te.reparentTo(render)
+#box1te.setTexture(loader.loadTexture("Bot.png"))
+box1te.setPos(0,0,17)
+
+#box1te=loader.loadModel("box.egg")
+#box1te.reparentTo(render)
+box1te.setTexture(loader.loadTexture("Bot.png"))
+#box1te.setPos(0,0,17)
