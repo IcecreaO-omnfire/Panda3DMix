@@ -1,0 +1,5 @@
+playset={}
+import Parun
+from UtilitModel import *
+#playset["model"]=loaded("Damaging.egg")
+#playset["model"].reparentTo(render)
