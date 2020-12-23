@@ -1,12 +1,9 @@
-from direct.showbase.ShowBase import ShowBase 
-from panda3d.core import * 
-
 class ShowApp(ShowBase): 
 
     def __init__(self): 
         ShowBase.__init__(self) 
         self.readbuff=open("InterBuff.py","r+")        
-        self.taskMgr.doMethodLater(float("inf"),self.interbuff,"InterBuff") 
+        self.taskMgr.add(self.interbuff,"InterBuff") 
 
     def interbuff(self,task): 
         exec(self.readbuff.read(),globals()) 
